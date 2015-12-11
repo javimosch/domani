@@ -1,0 +1,38 @@
+{
+  "name": "domani",
+  "version": "1.0.0",
+  "description": "minimalistic css,attr setter helper and css smart selector.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javimosch/domani.git"
+  },
+  "keywords": [
+    "dom",
+    "selector",
+    "manipulation"
+  ],
+  "author": "Javi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javimosch/domani/issues"
+  },
+  "homepage": "https://github.com/javimosch/domani#readme",
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-jasmine": "^2.2.1",
+    "gulp-jasmine-browser": "^0.2.3",
+    "gulp-minify": "0.0.5",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-util": "^3.0.7",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
